@@ -1,0 +1,15 @@
+{
+  "archive_sha256": "4a0edd3388c4ce9a6701b52ca3850cb6ebc1a4e4bf05bd336244a729e52f383a",
+  "original_inputs": {
+    "data/original/main_study/input.json": "0e4639e9871c89df04c50be1935f9efd40bc2db010402ee5db913db422c7b85b",
+    "data/original/main_study/Lab dataset.json": "e06bd90ae44244e49f845d8dc9ee81d93a020e40806a78ef3e59d71a6d647cdb",
+    "data/original/laboratory_evaluation/ble_devices_10 000.json": "5c6c432b350d75e695f77477d60539f04c26b57cd43b92803e590fec4bdbf527",
+    "data/original/laboratory_evaluation/Lab_dataset.json": "e06bd90ae44244e49f845d8dc9ee81d93a020e40806a78ef3e59d71a6d647cdb"
+  },
+  "main": "Only the 14 retained raw broadcast groups, original labels, order, IDs and saved split. No generated records.",
+  "laboratory": "Eight structural descriptors and saved row split from historical_representatives.json and record_index.csv; four matched categories, 5272 records. This uses the separate laboratory synthetic input, not the main input.",
+  "files": {
+    "data/main.csv.gz": "a0f105931fa25cfbd7fde5023a0c8284210ea1b4d8be60b9a4fbdfc0d2349fd0",
+    "data/laboratory.csv.gz": "f8cf068ee27586d9c6ec1cdf2f6ae60c870f39ff2b58b40c075e5a33da471d2a"
+  }
+}
